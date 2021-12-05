@@ -1,5 +1,6 @@
 ## Welcome to Photo Collage Hub
 
 Hey!
-Welcome to our product.Hope your enjoy it.
-For any feedback and reporting bug please contact photocollagehub@gmail.com
+Welcome.
+Hope you enjoy our product. 
+For any feedback and bug reporting, please contact via our email : photocollagehub@gmail.com
